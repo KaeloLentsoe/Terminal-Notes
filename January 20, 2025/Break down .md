@@ -1,0 +1,1 @@
+#  The basics of using the terminal with examples of common commands and scenarios:

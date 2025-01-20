@@ -1,7 +1,7 @@
 # January 20, 2025
 ## Note : These are note for terminal 
 
-## What is termal?
+## What the is termal?
 
 The **terminal** (also called the command line, console, or shell) is a text-based interface that lets you interact with your computer by typing commands. Instead of clicking icons or using menus, you type instructions directly, making it a powerful tool for controlling and automating tasks.
 
