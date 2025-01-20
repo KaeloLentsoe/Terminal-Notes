@@ -1,8 +1,5 @@
-Here are some examples of commonly used terminal navigation commands along with their descriptions:
+# **Basic Navigation Commands**
 
----
-
-### **Basic Navigation Commands**
 1. **`pwd`** (Print Working Directory)  
    - **Example**:  
      ```

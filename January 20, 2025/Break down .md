@@ -1,9 +1,5 @@
 #  The basics of using the terminal with examples of common commands and scenarios:
 
-Sure! Let’s break down the basics of using the terminal with examples of common commands and scenarios:
-
----
-
 ### **1. Navigating the File System**
 #### **Commands:**
 - `pwd` (Print Working Directory): Displays your current location in the file system.
