@@ -1,8 +1,4 @@
-Great! Here's an explanation of **branching and merging** with an example to solidify your understanding.  
-
----
-
-### **What is Branching?**  
+# **What is Branching?**  
 Branching allows you to create separate lines of development in your repository. Each branch is an independent copy of the codebase, so you can experiment or add features without affecting the main branch.  
 
 ---
